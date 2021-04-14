@@ -2,12 +2,8 @@
 <search>
   <entry>
     <title>my-picture</title>
-    <url>/2021/04/10/my-picture/</url>
-    <content><![CDATA[<img src="/2021/04/10/my-picture/test.jpg" class title="测试图片">
-]]></content>
-      <tags>
-        <tag>图片</tag>
-      </tags>
+    <url>/2021/04/14/my-picture/</url>
+    <content><![CDATA[  <img src="/2021/04/14/my-picture/test.png" class title="This is an example image">  ]]></content>
   </entry>
   <entry>
     <title>my</title>
